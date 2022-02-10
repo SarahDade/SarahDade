@@ -6,7 +6,7 @@
 
 
 - 🌱 currently learning Web programming at @Becode :open_book:
-- 🔭 I’m actively looking for an intership starting in March 2022
+<!-- - 🔭 I’m actively looking for an intership starting in March 2022 -->
 - :earth_africa: languages : FR | EN | GE | GR | AR 
 - 📫 how to reach me : [linkedin](https://www.linkedin.com/in/sarah-dade/)   
 - ⚡ Fun fact : i have phobia of underwater shipwrecks
